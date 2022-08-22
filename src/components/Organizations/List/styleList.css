@@ -1,0 +1,12 @@
+.user {
+    border: 1px solid #eeeeee;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;
+}
+
+
+.user button {
+    margin: 0.3rem;
+}

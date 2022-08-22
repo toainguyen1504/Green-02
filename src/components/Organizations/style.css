@@ -1,0 +1,129 @@
+.myStyle {
+    height: calc(100vh - 200px); 
+    padding: 1rem;
+}
+#button-header {
+  margin-top: 4rem;
+}
+#btn-create button {
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .section-header {
+    padding-bottom: 40px;
+  }
+  
+  .section-header h2 {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0;
+    line-height: 1px;
+    margin: 0 0 5px 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.6);
+    font-family: var(--font-primary);
+  }
+  
+  .section-header h2::after {
+    content: "";
+    width: 120px;
+    height: 1px;
+    display: inline-block;
+    background: #5bd9a9;
+    margin: 4px 10px;
+  }
+  
+  .section-header p {
+    margin: 0;
+    margin: 0;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: var(--font-secondary);
+    color: #fff;
+  }
+  
+  /*--------------------------------------------------------------
+  # Page Header
+  --------------------------------------------------------------*/
+  /* .page-header {
+    padding: 120px 0 60px 0;
+    min-height: 30vh;
+    position: relative;
+  }
+  
+  .page-header h2 {
+    font-size: 56px;
+    font-weight: 500;
+    color: #fff;
+    font-family: var(--font-secondary);
+  }
+  
+  @media (max-width: 768px) {
+    .page-header h2 {
+      font-size: 36px;
+    }
+  }
+  
+  .page-header p {
+    color: rgba(255, 255, 255, 0.8);
+  }
+  
+  .page-header .cta-btn {
+    font-family: var(--font-primary);
+    font-weight: 400;
+    font-size: 14px;
+    display: inline-block;
+    padding: 12px 40px;
+    border-radius: 4px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: 0.3s;
+    color: #fff;
+    background: var(--color-primary);
+  }
+  
+  .page-header .cta-btn:hover {
+    background: #2cbc85;
+  } */
+
+  
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+/* .footer {
+    margin-top: 30px;
+    padding: 30px 0;
+    font-size: 14px;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+  }
+  
+  .footer .copyright {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.8);
+  }
+  
+  .footer .credits {
+    padding-top: 6px;
+    text-align: center;
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.8);
+  }
+  
+  .footer .credits a {
+    color: var(--color-primary);
+  } */
