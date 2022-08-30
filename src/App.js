@@ -10,7 +10,7 @@ function App() {
         <div className="container">
 
           <a href="/" className="d-flex align-items-center  me-auto me-lg-0">
-            <span className='fs-4'>ToaiNguyen</span>
+            <span className='fs-4'>ToaiNguyennn</span>
           </a>
 
         </div>
